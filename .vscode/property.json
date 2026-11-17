@@ -1,0 +1,21 @@
+{
+    "toolChain": "xilinx",
+    "prjName": {
+        "PL": "kintex_7_DDS"
+    },
+    "srcTop": "awg_dds_top",
+    "simTop": "tb_awg_dds_top",
+    "arch": {
+        "prjPath": "prj/xilinx",
+        "hardware": {
+            "src": "user/src",
+            "sim": "user/sim",
+            "data": "user/data"
+        }
+    },
+    "soc": {
+        "core": "none"
+    },
+    "device": "xc7k325tffg900-2",
+    "enableShowLog": true
+}

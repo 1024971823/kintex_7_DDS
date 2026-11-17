@@ -1,0 +1,15 @@
+{
+    "digital-ide.prj.vivado.install.path": "/home/Srakoul/.local/vivado-bin",
+    "digital-ide.standard.systemverilog": "2017",
+    "digital-ide.function.lsp.linter.mode": "full",
+    "digital-ide.function.lsp.linter.linter-level": "warning",
+    "digital-ide.function.simulate.simulationHome": "/home/Srakoul/Downloads/kintex_7_DDS/simulation",
+    "digital-ide.function.netlist.schema-mode": "RTL",
+    "digital-ide.prj.file.structure.notice": false,
+    "files.associations": {
+        "*.v": "verilog",
+        "*.vh": "verilog",
+        "*.sv": "systemverilog",
+        "*.svh": "systemverilog"
+    }
+}

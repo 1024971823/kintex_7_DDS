@@ -1,0 +1,9 @@
+prj/
+simulation/
+.dide/
+*.jou
+*.log
+*.pb
+*.str
+.Xil/
+__pycache__/
